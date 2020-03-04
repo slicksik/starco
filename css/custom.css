@@ -1,0 +1,80 @@
+/*********************************************************************************
+
+	Template Name: Template Full Name Here
+	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
+	Version: 1.0
+
+	Note: This is custom css.
+
+**********************************************************************************/
+
+
+.open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a 
+{
+	font-size:52px;
+}
+
+.mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1
+{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.open-hamberger-wrapper .mainmenu-wrapper .page_nav ul.mainmenu
+{
+	padding-top:0;
+}
+
+.about-company-list {
+	list-style: none;
+}
+.about-company-list li {
+	font-family:'Open Sans', sans-serif;
+	font-weight:normal;
+	font-size:12px;
+	color: rgb(147,1,74);
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap&subset=greek');
+
+p.bk_pra {
+	font-family:'Open Sans',sans-serif;
+	font-weight:400;
+
+}
+
+.header-default .header__wrapper {
+	height:150px;
+}
+.starco-page-header {
+	font-size:9rem; padding-left:100px;
+}
+.portfolio-text {
+	font-size: 18px !important;
+}
+.portfolio.portfolio_style--1 .port-overlay-info .hover-action h3.post-overlay-title a {
+	font-size:2rem;
+	font-family:'Open Sans', sans-serif;
+	font-weight:700;
+}
+.portfolio.portfolio_style--1 .port-overlay-info .hover-action .category
+{
+	font-size:16px;
+	font-family:'Open Sans', sans-serif;
+}
+body.template-color-22 .portfolio.portfolio_style--1 .port-overlay-info {
+	background-color: #864467;
+}
+body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
+	background-color: #00706c;
+}
+.third-color {
+	color:#864467;
+}
+@media only screen and (max-width: 991px) {
+	.smhidden {
+		display:none;
+	}
+	.starco-page-header {
+	font-size:5rem; padding-left:50px;
+}
+}

@@ -73,12 +73,17 @@ body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
 .social-icon.style-solid-rounded-icon li a {
 color: #00706c;
 }
-
+.thes-design {
+	font-size:8rem;
+}
 @media only screen and (max-width: 991px) {
 	.smhidden {
 		display:none;
 	}
 	.starco-page-header {
-	font-size:5rem; padding-left:50px;
-}
+	font-size:5rem; padding-left:50px;	
+	}
+	.thes-design {
+		font-size:4rem;
+	}
 }

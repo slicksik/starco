@@ -70,6 +70,10 @@ body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
 .third-color {
 	color:#864467;
 }
+.social-icon.style-solid-rounded-icon li a {
+color: #00706c;
+}
+
 @media only screen and (max-width: 991px) {
 	.smhidden {
 		display:none;

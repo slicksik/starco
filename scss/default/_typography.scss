@@ -18,7 +18,7 @@ body {
 	line-height: $body-line-height;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	font-family: $body-font;
+	font-family: 'Open Sans', sans-serif;
 	color: $body-color;
 	font-weight: 400;
 }
@@ -69,7 +69,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-	font-family: $heading-font;
+	font-family: 'Open Sans';
 	line-height: 1.3;
 	color: $heading-color;
 }

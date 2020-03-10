@@ -99,6 +99,9 @@ body.template-color-22 .contact-form input[type="submit"], body.template-color-2
 	background-color: #9E1F62 !important;
 	border-color:#9E1F62 !important;
 }
+.portfolio.with-caption .caption-bottom {
+	border-top: 3px solid #9e1f62;
+}
 @media only screen and (max-width: 991px) {
 	.smhidden {
 		display:none;

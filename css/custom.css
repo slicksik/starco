@@ -66,13 +66,13 @@ heading {
 	font-family:'Open Sans', sans-serif;
 }
 body.template-color-22 .portfolio.portfolio_style--1 .port-overlay-info {
-	background-color: #864467;
+	background-color: #9E1F62;
 }
 body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
 	background-color: #00706c;
 }
 .third-color {
-	color:#864467;
+	color:#9E1F62;
 }
 .social-icon.style-solid-rounded-icon li a {
 color: rgb(147,1,74);
@@ -91,6 +91,13 @@ body.template-font-2 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span
 }
 html, button, input, select, textarea {
 	font-family: 'Open Sans', sans-serif;
+}
+body.template-color-22 .theme-color {
+	color: #9E1F62 !important;
+}
+body.template-color-22 .contact-form input[type="submit"], body.template-color-22 .contact-form textarea[type="submit"] {
+	background-color: #9E1F62 !important;
+	border-color:#9E1F62 !important;
 }
 @media only screen and (max-width: 991px) {
 	.smhidden {

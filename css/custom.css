@@ -110,6 +110,12 @@ body.template-color-22 .contact-form input[type="submit"], body.template-color-2
 .portfolio {
 	margin:30px 50px;
 }
+.social-icon.style-solid-rounded-icon li a{
+	background-color: #eeeeee;
+}
+.social-icon.style-solid-rounded-icon li a:hover{
+	background-color: #eeeeee;
+}
 @media only screen and (max-width: 991px) {
 	.smhidden {
 		display:none;

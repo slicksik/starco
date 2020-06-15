@@ -107,6 +107,9 @@ body.template-color-22 .contact-form input[type="submit"], body.template-color-2
 .portfolio.with-caption .caption-bottom {
 	border-top: 3px solid #9e1f62;
 }
+.portfolio {
+	margin:30px 50px;
+}
 @media only screen and (max-width: 991px) {
 	.smhidden {
 		display:none;
